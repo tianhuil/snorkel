@@ -4,9 +4,7 @@ from __future__ import print_function
 from __future__ import unicode_literals
 from builtins import *
 
-import sys, os
-sys.path.append(os.environ['SNORKELHOME'] + '/treedlib/treedlib')
-from templates import *
+from treedlib.templates import *
 
 def compile_entity_feature_generator():
   """
