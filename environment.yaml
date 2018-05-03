@@ -1,0 +1,5 @@
+dependencies:
+- numba
+- python=2.7
+- lxml
+- pip=10.0.1
