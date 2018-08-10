@@ -27,7 +27,7 @@ setup(
         "py4j",
     ],
     dependency_links=[
-        "git+https://github.com/HazyResearch/numbskull@5219238",
-        "git+https://github.com/HazyResearch/treedlib@b893c5b",
+        "git+https://github.com/HazyResearch/numbskull@5219238#egg=numbskull",
+        "git+https://github.com/HazyResearch/treedlib@b893c5b#egg=treedlib",
     ]
 )
